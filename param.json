@@ -1,0 +1,143 @@
+{
+    "SDAccel": [
+        {
+            "childRepoBranch": "master", 
+            "childRepoLink": "https://gitenterprise.xilinx.com/FaaSApps/gemx.git", 
+            "childRepo": "SDAccel_Libraries/gemx/trunk"
+        }, 
+        {
+            "childRepoBranch": "2017.4", 
+            "childRepoLink": "https://gitenterprise.xilinx.com/FaaSApps/gemx.git", 
+            "childRepo": "SDAccel_Libraries/gemx/branches/2017.4"
+        }, 
+        {
+            "childRepoBranch": "2018.2", 
+            "childRepoLink": "https://gitenterprise.xilinx.com/FaaSApps/gemx.git", 
+            "childRepo": "SDAccel_Libraries/gemx/branches/2018.2"
+        },
+        {
+            "childRepoBranch": "2018.3", 
+            "childRepoLink": "https://gitenterprise.xilinx.com/FaaSApps/gemx.git", 
+            "childRepo": "SDAccel_Libraries/gemx/branches/2018.3"
+        }, 
+        {
+            "childRepoBranch": "master", 
+            "childRepoLink": "https://gitenterprise.xilinx.com/FaaSApps/webp.git", 
+            "childRepo": "SDAccel_Libraries/webp/trunk"
+        },
+        {
+            "childRepoBranch": "master", 
+            "childRepoLink": "https://github.com/Xilinx/data-analytics.git", 
+            "childRepo": "SDAccel_Applications/data-analytics/trunk"
+        }, 
+        {
+            "childRepoBranch": "master", 
+            "childRepoLink": "https://github.com/Xilinx/SDAccel_Examples.git", 
+            "childRepo": "SDAccel_Examples/trunk"
+        }, 
+        {
+            "childRepoBranch": "2017.1", 
+            "childRepoLink": "https://github.com/Xilinx/SDAccel_Examples.git", 
+            "childRepo": "SDAccel_Examples/branches/2017.1"
+        }, 
+        {
+            "childRepoBranch": "2017.2", 
+            "childRepoLink": "https://github.com/Xilinx/SDAccel_Examples.git", 
+            "childRepo": "SDAccel_Examples/branches/2017.2"
+        }, 
+        {
+            "childRepoBranch": "2017.4", 
+            "childRepoLink": "https://github.com/Xilinx/SDAccel_Examples.git", 
+            "childRepo": "SDAccel_Examples/branches/2017.4"
+        }, 
+        {
+            "childRepoBranch": "2018.1", 
+            "childRepoLink": "https://github.com/Xilinx/SDAccel_Examples.git", 
+            "childRepo": "SDAccel_Examples/branches/2018.1"
+        }, 
+        {
+            "childRepoBranch": "2018.2", 
+            "childRepoLink": "https://github.com/Xilinx/SDAccel_Examples.git", 
+            "childRepo": "SDAccel_Examples/branches/2018.2"
+        },
+        {
+            "childRepoBranch": "aws_2017.4", 
+            "childRepoLink": "https://github.com/Xilinx/SDAccel_Examples.git", 
+            "childRepo": "SDAccel_Examples/branches/aws_2017.4"
+        }, 
+        {
+            "childRepoBranch": "master", 
+            "childRepoLink": "https://github.com/Xilinx/SDAccel-Tutorials.git", 
+            "childRepo": "SDAccel_Tutorials/trunk"
+        },  
+        {
+            "childRepoBranch": "Japanese-master", 
+            "childRepoLink": "https://github.com/Xilinx/SDAccel-Tutorials.git", 
+            "childRepo": "SDAccel_Tutorials/branches/Japanese-master"
+        },
+        {
+            "childRepoBranch": "master", 
+            "childRepoLink": "https://github.com/Xilinx/xfopencv.git", 
+            "childRepo": "SDAccel_Libraries/xfopencv/trunk"
+        }, 
+        {
+            "childRepoBranch": "master", 
+            "childRepoLink": "https://gitenterprise.xilinx.com/FaaSApps/db_lib.git", 
+            "childRepo": "SDAccel_Libraries/db_lib/trunk"
+        }
+    ], 
+    "SDSoC": [
+        {
+            "childRepoBranch": "master", 
+            "childRepoLink": "https://github.com/Xilinx/SDSoC_Examples.git", 
+            "childRepo": "SDSoC_Examples/trunk"
+        }, 
+        {
+            "childRepoBranch": "2017.1", 
+            "childRepoLink": "https://github.com/Xilinx/SDSoC_Examples.git", 
+            "childRepo": "SDSoC_Examples/branches/2017.1"
+        }, 
+        {
+            "childRepoBranch": "2017.2", 
+            "childRepoLink": "https://github.com/Xilinx/SDSoC_Examples.git", 
+            "childRepo": "SDSoC_Examples/branches/2017.2"
+        }, 
+        {
+            "childRepoBranch": "2017.4", 
+            "childRepoLink": "https://github.com/Xilinx/SDSoC_Examples.git", 
+            "childRepo": "SDSoC_Examples/branches/2017.4"
+        }, 
+        {
+            "childRepoBranch": "2018.1", 
+            "childRepoLink": "https://github.com/Xilinx/SDSoC_Examples.git", 
+            "childRepo": "SDSoC_Examples/branches/2018.1"
+        }, 
+        {
+            "childRepoBranch": "master", 
+            "childRepoLink": "https://github.com/Xilinx/SDSoC-Tutorials.git", 
+            "childRepo": "SDSoC_Tutorials/trunk"
+        }, 
+        {
+            "childRepoBranch": "Japanese-master", 
+            "childRepoLink": "https://github.com/Xilinx/SDSoC-Tutorials.git", 
+            "childRepo": "SDSoC_Tutorials/branches/Japanese-master"
+        }, 
+        {
+            "childRepoBranch": "master", 
+            "childRepoLink": "https://github.com/Xilinx/CHaiDNN.git", 
+            "childRepo": "SDSoC_Applications/CHaiDNN/trunk"
+        },
+        {
+            "childRepoBranch": "master", 
+            "childRepoLink": "https://github.com/Xilinx/xfopencv.git", 
+            "childRepo": "SDSoC_Libraries/xfopencv/trunk"
+        }
+    ],
+    "FPGA_as_a_Service" : [
+        {
+            "childRepoBranch": "master", 
+            "childRepoLink": "https://gitenterprise.xilinx.com/FaaSApps/k8s-fpga-device-plugin.git", 
+            "childRepo": "k8s-fpga-device-plugin/trunk"
+        }
+    ]
+}
